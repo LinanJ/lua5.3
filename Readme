@@ -4,6 +4,6 @@
 1. tar zxf lua-5.3.5.tar.gz
 2. cd lua-5.3.5
 3. make linux test
-4. 将lua5.3.pc拷贝到/usr/local/lib/pktconfig目录下
+4. 将lua5.3.pc拷贝到/usr/local/lib/pkgconfig目录下
 5. make pc
 6. make install
